@@ -74,7 +74,7 @@ We could define a job by its
 
 ### /companies?company=name_of_company
 
-* Return all jobs of a this company
+* Return all jobs of this company
 
 ## Licence
 
